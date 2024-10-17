@@ -32,6 +32,7 @@ Implementation using C or pyhton code
 ## PROGRAM:
 PROGRAM:
 CaearCipher.
+~~~
 #include <stdio.h>
 #include <stdlib.h>
  
@@ -66,11 +67,9 @@ scanf("%d", &key); // Read the key from the user
  
 caesarDecrypt(message, key); printf("Decrypted Message: %s", message); return 0;
 }
-
+~~~
 
 ## OUTPUT:
-OUTPUT:
-Simulating Caesar Cipher
 ![cryptography first exp1](https://github.com/user-attachments/assets/7a661342-0e2d-4acc-97ab-c700ee8ec717)
 
 ## RESULT:
