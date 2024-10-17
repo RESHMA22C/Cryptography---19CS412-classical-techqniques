@@ -272,8 +272,8 @@ return 0;
 }
 
 ## OUTPUT:
-Output:
-Key text: Monarchy Plain text: instruments Cipher text: gatlmzclrqtx
+![image](https://github.com/user-attachments/assets/7c2266ae-42e2-479c-a099-e4fa1d6a429d)
+
 
 ## RESULT:
 The program is executed successfully
