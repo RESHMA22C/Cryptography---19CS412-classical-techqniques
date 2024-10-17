@@ -71,10 +71,7 @@ caesarDecrypt(message, key); printf("Decrypted Message: %s", message); return 0;
 ## OUTPUT:
 OUTPUT:
 Simulating Caesar Cipher
-
-
-Input : Anna University
-Encrypted Message : Dqqd Xqlyhuvlwb Decrypted Message : Anna University
+![cryptography first exp1](https://github.com/user-attachments/assets/7a661342-0e2d-4acc-97ab-c700ee8ec717)
 
 ## RESULT:
 The program is executed successfully
