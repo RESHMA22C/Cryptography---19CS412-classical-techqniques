@@ -458,6 +458,7 @@ In the rail fence cipher, the plaintext is written downwards and diagonally on s
 ## PROGRAM:
 
 PROGRAM:
+~~~
 #include<stdio.h> #include<string.h> #include<stdlib.h> main()
 {
 int i,j,len,rails,count,code[100][1000]; char str[1000];
@@ -503,10 +504,9 @@ if(code[i][j]!=0) printf("%c",code[i][j]);
 }
 printf("\n");
 }
+~~~
 ## OUTPUT:
-OUTPUT:
-Enter a Secret Message wearediscovered
-Enter number of rails 2
-waeicvrderdsoee
+![Screenshot 2024-10-17 152404](https://github.com/user-attachments/assets/2c6951ad-8f2f-4198-b31d-300c2adf9ebd)
+
 ## RESULT:
 The program is executed successfully
